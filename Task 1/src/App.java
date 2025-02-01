@@ -74,7 +74,7 @@ class AverageCalculator extends Thread {
     }
 }
 
-public class Main {
+public class App {
     public static void main(String[] args) {
         int size = 15;
         SharedArray sharedArray = new SharedArray(size);
